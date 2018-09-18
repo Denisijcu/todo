@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lista de Tareas</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="lbTask">Tareas</string>
+    <string name="btnAdd">+</string>
+    <string name="btnDelete">Borrar Todo</string>
+    <string name="Aqui">Aqui...</string>
+    <string name="BtnExportXLS">XLS file</string>
+    <string name="title_activity_item">item</string>
+    <string name="ccc">New Text</string>
+    <string name="title_activity_form_lista">FormLista</string>
+    <string name="labeE1">Capital</string>
+    <string name="labeE2">Sal_Basico</string>
+    <string name="labeE3">OtherIns</string>
+    <string name="labeE4">Lease</string>
+    <string name="labeE5">Car Ensurence</string>
+    <string name="labeE6">Med Ensurence</string>
+
+</resources>
